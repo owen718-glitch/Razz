@@ -56,7 +56,7 @@ const studentProfile = {
       title: "Breast Cancer Cell Lines",
       url: "http://rpubs.com/owen718/1451006"
     }
-    
+      {
   ],
 
   /*
