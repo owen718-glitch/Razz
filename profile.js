@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Owen RoyFarrug",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "My name is Owen RoyFarrug and I am a rising senior in highschool. Going into DREAM-High I hoped to garner a broader understanding of how modern technology is impacting the healthcare field. Throughout my path I have observed how computational biology serves a far greater role than numerical interpretation but as a backbone for real change in the outcomes for real people.",
 
   /*
   Optional photo:
@@ -27,7 +27,7 @@ const studentProfile = {
   */
   photo: "",
 
-  contact: "Contact information available upon request.",
+  contact: "owen718@icloud.com.",
 
   /*
   RPubs activities:
@@ -38,13 +38,25 @@ const studentProfile = {
   */
   rpubs: [
     {
-      title: "Introduction to R",
-      url: "https://rpubs.com/"
+      title: "Learning R with Heatmaps",
+      url: "https://rpubs.com/owen718/1446207"
     },
     {
-      title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
+      title: "Exploring TCGA Patient Data",
+      url: "https://rpubs.com/owen718/1447601"
     }
+     { 
+     },
+    {
+      title: "TCGA Breast Cancer Gene Expression Analysis",
+      url: "https://rpubs.com/owen718/1449873"
+    }
+     },
+    {
+      title: "Breast Cancer Cell Lines",
+      url: "http://rpubs.com/owen718/1451006"
+    }
+    
   ],
 
   /*
@@ -54,7 +66,7 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
+    description: "My project explores the modern ethics of cancer treatment, centering on the complex tradeoffs in experimental oncology. I will analyze how researchers, providers, and patients navigate between hope and potential risk surrounding therapeutics. ",
     url: ""
   },
 
