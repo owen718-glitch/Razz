@@ -44,19 +44,19 @@ const studentProfile = {
     {
       title: "Exploring TCGA Patient Data",
       url: "https://rpubs.com/owen718/1447601"
-    }
-     { 
-     },
+    },
+      
+     
     {
       title: "TCGA Breast Cancer Gene Expression Analysis",
       url: "https://rpubs.com/owen718/1449873"
-    }
-     },
+    },
+     
     {
       title: "Breast Cancer Cell Lines",
       url: "http://rpubs.com/owen718/1451006"
     }
-      {
+    
   ],
 
   /*
