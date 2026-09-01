@@ -67,7 +67,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "My project explores the modern ethics of cancer treatment, centering on the complex tradeoffs in experimental oncology. I will analyze how researchers, providers, and patients navigate between hope and potential risk surrounding therapeutics. ",
-    url: "https://docs.google.com/presentation/d/17PNh_tpgQ4XXo_4k9qX3w2OYEiwXyXuSU-FiV1ZiBJg/edit?usp=sharing"
+    url: "https://docs.google.com/presentation/d/e/2PACX-1vT1_b44EGtJoCOX96A2MwpalnGwr-SDyHmDekMPOdtdpoQugNdKCQx60w2iCaMHjwwBWywRVuYxjRgV/pub?start=false&loop=false&delayms=3000"
   },
 
   /*
